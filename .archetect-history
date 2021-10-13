@@ -1,3 +1,6 @@
 1335174515:
   source: 'https://github.com/scaffoldly/archetype-express-serverless-rest-api.git#1.0.0-39'
   options: ' -s overwrite -s github -s serverless -s addon-auth -s addon-totp -s addon-aws-ses -a repository-name=auth-sls-rest-api -a auth=true'
+1339208039:
+  source: 'https://github.com/scaffoldly/archetype-express-serverless-rest-api.git#1.0.0-40'
+  options: ' -s overwrite -s github -s serverless -s addon-auth -s addon-totp -s addon-aws-ses -a repository-name=auth-sls-rest-api -a auth=true'
